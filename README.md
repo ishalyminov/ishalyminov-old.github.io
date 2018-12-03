@@ -1,3 +1,3 @@
-# ishalyminov.github.io
+# Igor Shalyminov
 
 Coming soon
