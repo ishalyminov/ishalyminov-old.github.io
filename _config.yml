@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Igor Shalyminov"
-resume_title:                   "PhD Student || Dialog systems | Natural Language Processing | Machine Learning"
+resume_title:                   "PhD Student"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "ishalyminov@gmail.com"
