@@ -1,13 +1,21 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: PhD, Computer Science
+  uni: Heriot-Watt University
+  year: 2016 &mdash; present (expected graduation &mdash; 2020)
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: James Watt Scholarship
+    - award: Amazon Alexa Prize 2017 (part of team Alana) &mdash; research grant + 3rd place prize
+    - award: Amazon Alexa Prize 2018 (part of team Alana) &mdash; research grant + 3rd place prize
+  summary: Thesis title: Data-Efficient Methods for Spoken Dialog Systems
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: MSc equiv., Computer Science
+  uni: Yandex Data Analysis School / Moscow Institute of Physics and Technology 
+  year: 2010 &mdash; 2012
+  summary: Professional re-training in Data Science and Computer Science
+
+- degree: Specialist (MSc equiv.), Computer Science
+  uni: Moscow State University of Instrument Engineering and Computer Science
+  year: 2005 &mdash; 2010
+  awards:
+    - award: with distinction (GPA 5.0)
+  summary: Thesis title: Cell generation module for software suite "Prognisis"
