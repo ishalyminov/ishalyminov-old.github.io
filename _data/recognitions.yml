@@ -1,10 +1,15 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: 1st place prize
+  organization: Dialogue System Technology Challenge 8
+  year: 2019
+  summary: DSTC8, Multi-Domain Task Completion Challenge Track, Fast Domain Adaptation Task. Best performing system as per human evaluation
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: Student Travel Scholarship
+  organization: EMNLP-IJCNLP 2019
+  year: 2019
+  summary: A grant towards presenting at EMNLP-IJCNLP 2019 conference
+  
+- award: Student Travel Scholarship
+  organization: SCAI@EMNLP 2018
+  year: 2018
+  summary: A grant towards presenting at Search-Oriented Conversational AI (EMNLP 2018 workshop) from conference sponsors: Microsoft, Facebook, Google, and TextKernel
