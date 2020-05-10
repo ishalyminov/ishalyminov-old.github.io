@@ -1,6 +1,6 @@
 # Site settings
 title: "Igor Shalyminov"
-# description: "A resume template for Jekyll and GitHub Pages sites."
+description: "Igor Shalyminov - home page"
 
 # Build settings
 markdown: kramdown
