@@ -1,9 +1,14 @@
 # Jobs
 
+- company: Amazon Alexa
+  position: Applied Scientist
+  duration: Jun, 2021 &mdash; present
+  summary: Automatic Speech Recognition research
+  
 - company: Alana
   position: Research Engineer
-  duration: Jun, 2020 &mdash; present
-  summary: End-to-end dialogue system research
+  duration: Jun, 2020 &mdash; Apr, 2021
+  summary: Data-efficient dialogue system bootstrapping
   
 - company: Microsoft Research Montréal
   position: Research Intern
