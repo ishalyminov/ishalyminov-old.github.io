@@ -1,6 +1,6 @@
 # Site settings
 title: "Igor Shalyminov"
-description: "Igor Shalyminov - Dialogue Systems Research"
+description: "Igor Shalyminov | Speech and Dialogue Research"
 
 # Build settings
 markdown: kramdown
@@ -11,17 +11,17 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Igor Shalyminov"
-resume_title:                   "Dialogue Systems Research"
+resume_title:                   "Speech and Dialogue Research"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "igor@shalyminov.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+447514863061"
-resume_contact_address:         "School of Mathematical and Computer Sciences, Heriot-Watt University, Edinburgh EH14 4AS, UK"
+resume_contact_telephone:       "+447308130798"
+resume_contact_address:         "Amazon R&D, Aureliusstraße 2, Aachen, 52064, Germany"
 
-resume_header_contact_info:     "School of Mathematical and Computer Sciences, Heriot-Watt University, Edinburgh EH14 4AS, UK • +447514863061 • igor@shalyminov.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "Amazon R&D, Aureliusstraße 2, Aachen, 52064, Germany • +447308130798 • igor@shalyminov.com"
+display_header_contact_info:    "true"
 
 resume_header_intro: I'm a PhD graduate from the <a href="https://sites.google.com/site/hwinteractionlab/">Interaction Lab, Heriot-Watt University</a> (Edinburgh, UK) working on Machine Learning/Natural Language Processing methods for data-efficient, robust, and practically applicable dialogue systems. If you think my background could be useful for you, please feel free to
 
