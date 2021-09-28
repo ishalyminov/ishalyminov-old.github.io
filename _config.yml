@@ -20,7 +20,7 @@ resume_contact_email:           "igor@shalyminov.com"
 resume_contact_telephone:       "+447308130798"
 resume_contact_address:         "Amazon R&D, Aureliusstraße 2, Aachen, 52064, Germany"
 
-resume_header_contact_info:     "Amazon R&D, Aureliusstraße 2, Aachen, 52064, Germany • +447308130798 • igor@shalyminov.com"
+resume_header_contact_info:     "Amazon R&D, Aureliusstraße 2, Aachen, 52064, Germany\n+447308130798 • igor@shalyminov.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: I'm a PhD graduate from the <a href="https://sites.google.com/site/hwinteractionlab/">Interaction Lab, Heriot-Watt University</a> (Edinburgh, UK) working on Machine Learning/Natural Language Processing methods for data-efficient, robust, and practically applicable dialogue systems. If you think my background could be useful for you, please feel free to
