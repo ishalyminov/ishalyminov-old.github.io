@@ -20,7 +20,7 @@ resume_contact_email:           "igor@shalyminov.com"
 resume_contact_telephone:       "+447308130798"
 resume_contact_address:         "Amazon R&D, Aureliusstraße 2, Aachen, 52064, Germany"
 
-resume_header_contact_info:     "Amazon R&D, Aureliusstraße 2, Aachen, 52064, Germany<br/>+447308130798 • <a href="mailto:igor@shalyminov.com">igor@shalyminov.com</a>"
+resume_header_contact_info:     "Amazon R&D, Aureliusstraße 2, Aachen, 52064, Germany<br/>+447308130798 • <a href=mailto:igor@shalyminov.com>igor@shalyminov.com</a>"
 display_header_contact_info:    "true"
 
 resume_header_intro: I'm an applied scientist at Amazon Alexa working on data efficiency aspects of ASR. I obtained my PhD from the <a href="https://sites.google.com/site/hwinteractionlab/">Interaction Lab, Heriot-Watt University</a> (Edinburgh, UK) working under the supervision of <a href="https://sites.google.com/site/olemon/">Prof Oliver Lemon</a> and <a href="https://sites.google.com/site/araesh81/">Dr Arash Eshghi</a> on Machine Learning/Natural Language Processing methods for data-efficient, robust, and practically applicable dialogue systems. If you think my background could be useful for you, please feel free to
