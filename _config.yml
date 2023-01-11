@@ -46,6 +46,7 @@ resume_section_experience:      true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/ishalyminov"
+  resume_telegram_url:            "https://t.me/ishalyminov"
   # resume_twitter_url:           "http://twitter.com/pure_virtual"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   resume_unsplash_url:          "https://unsplash.com/@ishalyminov"
